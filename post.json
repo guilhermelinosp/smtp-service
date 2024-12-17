@@ -1,0 +1,7 @@
+{
+  "to": "guilhermelinosp@gmail.com",
+  "subject": "Test Email Subject",
+  "body": "This is the body of the email.",
+  "attachments": [],
+  "priority": "high"
+}

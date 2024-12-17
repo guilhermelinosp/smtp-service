@@ -1,0 +1,8 @@
+﻿services:
+  smtp.producer:
+    image: smtp.producer:latest
+    build:
+      context: .
+      dockerfile: smtp.producer/Dockerfile
+    ports:
+      - "8080:8080"
